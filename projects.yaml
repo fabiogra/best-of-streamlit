@@ -661,4 +661,9 @@ projects:
     github_id: RasaHQ/NLU-training-data
     category: nlp
     show: True
-
+  - name: Moseca
+    homepage: https://huggingface.co/spaces/fabiogra/moseca
+    image: https://camo.githubusercontent.com/10a08c28d2d0588ab5a678a685e2b6479021785e90bbbe359d95800e22899d5a/68747470733a2f2f692e696d6775722e636f6d2f516f53643346672e676966
+    github_id: fabiogra/moseca
+    category: audio
+    show: True
