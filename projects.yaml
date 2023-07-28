@@ -127,11 +127,6 @@ projects:
     github_id: andfanilo/streamlit-drawable-canvas
     category: extension
     show: True
-  - name: E2E ML App w/ PyTorch
-    homepage: https://github.com/madewithml/e2e-ml-app-pytorch
-    github_id: madewithml/e2e-ml-app-pytorch
-    category: ml
-    show: True
   - name: ContainDS Dashboards
     homepage: https://github.com/ideonate/cdsdashboards
     image: https://github.com/ideonate/cdsdashboards/raw/master/docs/_static/screenshots/AppCollage.png
